@@ -96,9 +96,15 @@ public class ProductListFragment extends Fragment
 	{
     	if (progressAllowed)
     	{
-        	if (progress)    getActivity().findViewById(R.id.loadingPanel_list).setVisibility(View.VISIBLE);
-        	else getActivity().findViewById(R.id.loadingPanel_list).setVisibility(View.GONE);
-        	progressPending = false;
+            View view = getActivity().findViewById(R.id.loadingPanel_list);
+            if (view != null) {
+                if (progress) view.setVisibility(View.VISIBLE);
+                else view.setVisibility(View.GONE);
+                progressPending = false;
+
+            }
+
+
     	}
     	else progressPending = progress;
 	}
