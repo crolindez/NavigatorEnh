@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 10 16:32:25 CET 2016
+#Sat Dec 10 17:59:49 CET 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png

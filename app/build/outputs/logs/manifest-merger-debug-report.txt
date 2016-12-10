@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:1:1-69:12
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:1:1-67:12
 	package
 		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:2:1-41
 		INJECTED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml
@@ -14,15 +14,15 @@ ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\
 		INJECTED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:6:1-63
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:4:1-63
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:6:18-60
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:4:18-60
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:7:1-77
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:5:1-77
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:7:18-74
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:5:18-74
 application
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:9:1-67:15
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:7:1-65:15
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
@@ -33,87 +33,87 @@ MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Carlo
 MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:12:5-37
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:10:5-37
 	android:allowBackup
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:10:5-31
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:8:5-31
 	android:icon
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:11:5-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:9:5-41
 	android:theme
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:13:5-36
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:11:5-36
 activity#es.carlosrolindez.navigatorenh.SearchActivity
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:14:5-30:16
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:12:5-28:16
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:14:9-41
 	android:launchMode
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:17:9-39
-	android:name
 		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:15:9-39
+	android:name
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:13:9-39
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:18:9-21:25
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:16:9-19:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:17:13-65
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:17:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:20:13-73
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:18:13-73
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:20:23-70
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:18:23-70
 meta-data#android.app.default_searchable
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:23:9-24:47
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:21:9-22:47
 	android:value
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:24:13-44
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:22:13-44
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:23:20-65
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:21:20-65
 intent-filter#android.intent.action.SEARCH
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:25:9-27:25
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:23:9-25:25
 action#android.intent.action.SEARCH
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:26:13-67
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:24:13-67
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:26:21-64
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:24:21-64
 meta-data#android.app.searchable
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:28:9-29:50
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:26:9-27:50
 	android:resource
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:29:13-47
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:27:13-47
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:28:20-57
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:26:20-57
 activity#es.carlosrolindez.navigatorenh.InfoActivity
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:31:5-40:16
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:29:5-38:16
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:34:9-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:32:9-41
 	android:parentActivityName
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:33:9-53
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:31:9-53
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:32:9-37
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:30:9-37
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:36:9-38:77
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:34:9-36:77
 	android:value
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:38:13-74
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:36:13-74
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:37:13-59
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:35:13-59
 activity#es.carlosrolindez.navigatorenh.InOutActivity
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:41:5-49:16
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:39:5-47:16
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:44:9-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:42:9-41
 	android:parentActivityName
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:43:9-53
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:41:9-53
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:42:9-38
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:40:9-38
 activity#es.carlosrolindez.navigatorenh.DocActivity
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:50:5-58:16
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:48:5-56:16
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:53:9-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:51:9-41
 	android:parentActivityName
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:52:9-53
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:50:9-53
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:51:9-36
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:49:9-36
 activity#es.carlosrolindez.navigatorenh.SettingsActivity
-ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:59:5-66:16
+ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:57:5-64:16
 	android:label
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:62:9-48
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:60:9-48
 	android:parentActivityName
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:61:9-53
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:59:9-53
 	android:name
-		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:60:9-41
+		ADDED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml:58:9-41
 uses-sdk
 INJECTED from C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Carlos\Documents\Android\StudioProjecs\NavigatorEnh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78

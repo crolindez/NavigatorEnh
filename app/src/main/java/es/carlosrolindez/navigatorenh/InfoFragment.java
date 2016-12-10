@@ -305,10 +305,10 @@ public class InfoFragment extends Fragment
                 }
 
                 LineGraphSeries<DataPoint> series = new LineGraphSeries<>(seriesData);
-                BarGraphSeries<DataPoint> mean2YearSeries = new BarGraphSeries<>(seriesData2Years);
-                BarGraphSeries<DataPoint> mean1YearSeries = new BarGraphSeries<>(seriesData1Year);
-                BarGraphSeries<DataPoint> mean6MonthsSeries = new BarGraphSeries<>(seriesData6Months);
-                BarGraphSeries<DataPoint> mean3MonthsSeries = new BarGraphSeries<>(seriesData3Months);
+                LineGraphSeries<DataPoint> mean2YearSeries = new LineGraphSeries<>(seriesData2Years);
+                LineGraphSeries<DataPoint> mean1YearSeries = new LineGraphSeries<>(seriesData1Year);
+                LineGraphSeries<DataPoint> mean6MonthsSeries = new LineGraphSeries<>(seriesData6Months);
+                LineGraphSeries<DataPoint> mean3MonthsSeries = new LineGraphSeries<>(seriesData3Months);
 
                 series.setColor(Color.BLACK);
                 mean2YearSeries.setColor(Color.BLUE);
@@ -321,6 +321,16 @@ public class InfoFragment extends Fragment
                 graphView.addSeries(mean6MonthsSeries);
                 graphView.addSeries(mean3MonthsSeries);
                 graphView.addSeries(series);
+
+//				  mean2YearSeries.setSpacing(0);
+//               mean1YearSeries.setSpacing(0);
+//               mean6MonthsSeries.setSpacing(0);
+//               mean3MonthsSeries.setSpacing(0);
+
+                mean2YearSeries.setDrawBackground(true);
+                mean1YearSeries.setDrawBackground(true);
+                mean6MonthsSeries.setDrawBackground(true);
+                mean3MonthsSeries.setDrawBackground(true);
 
                 graphView.setTitle("Consumo");
                 graphView.getViewport().setXAxisBoundsManual(true);
