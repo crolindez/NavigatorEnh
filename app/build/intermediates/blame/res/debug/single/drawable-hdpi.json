@@ -1,62 +1,62 @@
 [
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_divider.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_divider.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_divider.9.png",
-        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjecs\\NavigatorEnh\\app\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_divider.9.png"
+        "merged": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Carlos\\Documents\\Android\\StudioProjects\\NavigatorEnh\\app\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
     }
 ]

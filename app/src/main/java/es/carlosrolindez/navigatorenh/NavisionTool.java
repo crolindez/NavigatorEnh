@@ -6,7 +6,6 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Locale;
 
 public class NavisionTool
 {
@@ -295,9 +294,9 @@ public class NavisionTool
 			stmt = conn.createStatement( ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
 			
             String headSqlString = "SELECT sum([Quantity]) FROM  [EIS$Item Ledger Entry] WHERE  ([Item No_] = '";
-    	    String tailSqlSring = "' ) AND  ([Location Code]='01') GROUP BY [Item No_]";
+    	    String tailSqlString = "' ) AND  ([Location Code]='01') GROUP BY [Item No_]";
 		    
-		    ResultSet result = stmt.executeQuery(headSqlString + filterString + tailSqlSring);
+		    ResultSet result = stmt.executeQuery(headSqlString + filterString + tailSqlString);
 		    if (result.isBeforeFirst())
 		    {
 		    	result.next();

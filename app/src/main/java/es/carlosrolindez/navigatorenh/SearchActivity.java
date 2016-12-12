@@ -137,7 +137,7 @@ public class SearchActivity extends FragmentActivity implements LoaderCallbacks<
 		    }	        
     	}
     	else
-        if (ab!=null) ab.setTitle("Navigator");
+        if (ab!=null) ab.setTitle("Navitron");
     }
 	
 	private void loadPreferences()
