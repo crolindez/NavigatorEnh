@@ -285,8 +285,9 @@ public class DocFragment extends Fragment
 			    intent.setDataAndType(uri, "*/*");
 			}
 	        
-	        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK); 
-	        startActivity(intent);
+	        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+			intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+			startActivity(intent);
 	    }
 
 	    @Override

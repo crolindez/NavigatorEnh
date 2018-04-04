@@ -840,7 +840,7 @@ public class NavisionTool
 		{
 			stmt = conn.createStatement( ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_READ_ONLY);
 
-            String headSqlString = "SELECT [Documento], [Tipo documento] FROM [EIS$Documentos] WHERE  ([N� documento]  = '";
+            String headSqlString = "SELECT [Documento], [Tipo documento] FROM [EIS$Documentos] WHERE  ([Nº documento]  = '";
 		    String tailSqlString = "' ) ";
 		    		    
 		    ResultSet result = stmt.executeQuery(headSqlString + filterString + tailSqlString);
