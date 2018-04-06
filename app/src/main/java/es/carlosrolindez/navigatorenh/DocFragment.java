@@ -7,6 +7,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.app.Fragment;
+import android.support.v4.content.FileProvider;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -173,7 +174,7 @@ public class DocFragment extends Fragment
 						{
 			                InputStream inputStream = smbFileToDownload.getInputStream();
 
-			                File localFile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS),"/Temporalfolder/"+smbFileToDownload.getName());
+			                File localFile = new File(Environment.getExternalStorageDirectory(/*Environment.DIRECTORY_DOWNLOADS*/),"/Navitron/"+smbFileToDownload.getName());
 			                long fileLength = smbFileToDownload.length();
 			                
 			                OutputStream out = new FileOutputStream(localFile);
@@ -246,8 +247,9 @@ public class DocFragment extends Fragment
 	    @Override protected void onPostExecute(File file) {
 	    	dialog.dismiss();
 			if (file== null) return;
-	    	Uri uri = Uri.fromFile(file);
-	        
+	    	//Uri uri = Uri.fromFile(file);
+			Uri uri = FileProvider.getUriForFile(getContext(),"es.carlosrolindez.navigatorenh.fileprovider",file);
+					Uri.fromFile(file);
 			Intent intent = new Intent(Intent.ACTION_VIEW);
 			// Check what kind of file you are trying to open, by comparing the url with extensions.
 			// When the if condition is matched, plugin sets the correct intent (mime) type, 
